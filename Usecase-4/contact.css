@@ -1,0 +1,12 @@
+.row-footer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.site-footer-link{
+    text-decoration: none;
+    color: rgb(28 161 156);
+}
+#button-footer:hover{
+background-color: blue;
+border: none;
+}

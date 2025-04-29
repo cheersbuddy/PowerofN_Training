@@ -1,0 +1,118 @@
+
+.work-box {
+    border: 1px solid black;
+    position: relative;
+    padding: 0;
+    margin: 10px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.work-overlay {
+    background-color: rgba(92, 183, 213, 0.5); 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2; 
+}
+
+
+.work-caption {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: start;
+    color: white; 
+    z-index: 3; 
+    padding: 20px;
+    width: 60%;
+    height: 500px;
+    margin:10px;
+
+}
+.work-caption1 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: start;
+    color: white; 
+    z-index: 3; 
+    padding: 20px;
+    width: 60%;
+    height: 500px;
+    margin:10px;
+
+}
+.work-caption2 {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: start;
+    color: white; 
+    z-index: 3; 
+    padding: 20px;
+    width: 60%;
+    height: 500px;
+    margin:10px;
+
+}
+.work-caption3 {
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: start;
+    color: white; 
+    z-index: 3; 
+    padding: 10px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    vertical-align: top;
+
+}
+
+
+.work-title {
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-bottom: 26px;
+    text-align: center;
+}
+
+
+.work-h3 {
+    text-align: start;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+
+
+.work-p {
+    text-align: start;
+    font-size: large;
+}
+.btn-work{
+    padding: 10px;
+    margin-left: 40px;
+    color: rgb(0, 247, 255);
+    border: 1px solid rgb(0, 247, 255);
+    background-color: none;
+    border-radius: 50px;
+}
+.btn-work:hover{
+    padding: 10px;
+    margin-left: 40px;
+    background-color: rgb(0, 247, 255);
+    color: white;
+    background-color: none;
+    border-radius: 50px;
+}
