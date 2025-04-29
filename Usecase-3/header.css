@@ -1,0 +1,57 @@
+
+
+
+#header1{
+    background-color:green ;
+    color: white;
+    font-size: 15px;
+    display:grid;
+    text-align:start;
+    grid-template-columns:550px 1fr 150px 150px;
+
+
+    align-items: start;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    left: 0;
+
+    z-index: 100;
+    vertical-align: bottom;
+
+
+}
+.line1{
+   
+    height: 15px;
+    margin-top: 3px;;
+    background-color: rgb(255, 255, 255);
+
+    width:1px;
+    align-items: center;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+#arrow{
+    vertical-align: center;
+    background-color: green;
+    border: none;
+    font-weight: bolder;
+
+
+
+}
+.middle{
+width:350px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+text-align: center;
+
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+ }

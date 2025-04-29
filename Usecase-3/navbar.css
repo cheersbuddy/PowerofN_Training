@@ -1,0 +1,30 @@
+.filters{
+    margin-top: 40px;
+    align-items: start;
+    justify-content: space-between;
+    
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-weight: bold;
+        padding: 15px;
+        width: 100%;
+        display: flex;
+
+        text-align: center;
+    
+    
+}
+.sort{
+    margin-left: 200px;
+    margin-right: 20px;
+    padding:5px 10px;
+border-radius: 30px;
+border: 1px solid rgb(203, 203, 203);
+background-color: rgb(255, 255, 255);
+}
+.filter-tag{
+padding:5px 10px;
+border-radius: 30px;
+border: none;
+background-color: rgb(221, 221, 221);
+}
