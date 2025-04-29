@@ -1,0 +1,14 @@
+.thing-box{
+    color: white;
+    width:360px;
+    padding:28px
+}
+.text-page3{
+    word-wrap: normal;
+    font-size: 16px; 
+}
+.thing-box:hover{
+    background-color: rgb(125, 125, 125);
+
+}
+

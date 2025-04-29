@@ -1,0 +1,60 @@
+.blue-page2{
+
+    color: rgb(55, 156, 206);
+
+}
+ .member-text-page2{
+    font-size: xx-large;
+ }
+.page2-header{
+font-size: xx-large;
+text-align: center;
+align-items: center;
+color: white;
+font-weight: 600;
+}
+.feature-text-page2{
+font-size: medium;
+color: white;
+}
+.member-img-page2{
+width: 340px;
+height: 240px;
+
+}
+.member-text-page2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: x-large;
+    text-align: center;
+    align-items: center;
+    color: white;
+
+    }
+.container11{
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 30px;
+
+    margin-bottom: 30px;
+
+
+}
+ body{
+    overflow-x:hidden;
+
+    
+}
+.member-row-page2{
+    background-color: rgb(73, 73, 73);
+transition: padding-top 0.2s, opacity 0.2s;
+   
+
+}
+.member-row-page2:hover{
+    padding-top:3px;
+    opacity: 0.6;
+
+   
+
+}

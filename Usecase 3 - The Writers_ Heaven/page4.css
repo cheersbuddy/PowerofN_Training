@@ -1,0 +1,144 @@
+.portfolio-box{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+display: grid;
+    align-items: center;
+    margin: 120px;
+    
+}
+.portfolio-img{
+    width:320px;
+    height: 250px;
+
+    opacity: 1;
+    display: block;
+
+
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+.relative-page4{
+    position: relative;
+    display: grid;
+    place-items: center;
+    justify-content: center;
+    z-index: 100;
+    width: 320px;
+    background-color: #25a6e8;
+
+}
+.relative-page4:hover .text-hover-page4{
+
+
+
+    width:320px;
+    height: 250px;
+    opacity: 1;
+
+
+}
+
+.relative-page4:hover .portfolio-img {
+    opacity: 0.5;
+
+
+  }
+  
+  .portfolio-img:hover .text-hover-page4 {
+    opacity: 1;
+  }
+.portfolio-img:hover{
+
+background-color: rgb(55, 156, 206);
+}
+
+.text-hover-page4{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+
+    text-align: center;
+    color: white;
+ padding: 45px;
+
+
+    z-index: 100;
+
+  }
+.header-hover-page4{
+    color: white;
+    font-size: large;
+}
+.details-hover-page4{
+    color: white;
+    font-size: medium;
+}
+.btn-hover-page4{
+    background:none;
+    color: white;
+    border: 1px solid white;
+    padding: 8px 20px;
+    cursor: pointer;
+    font-size: larger;
+}
+
+
+
+
+.form{
+    background-color: #212121;
+    padding-bottom: 200px;
+}
+.form-title p{
+    color:white;
+    padding: 30px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-sec-1, .form-sec-2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.form-input{
+    background: none;
+    border:1px solid #28A6E8;
+    width: 446px;
+    border-style: solid;
+    padding: 9px;
+}
+.form-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-sec-2{
+    padding-left:20px;
+}
+.contact-us p{
+    margin-left: -118px;
+    font-size: 18px;
+    margin-top: -29px;
+    font-weight: bold;
+}
+.contact123{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left:-57px;
+}
+.footer{
+    background-color:
+    #000000;
+    padding:10px;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    z-index: 500;
+}
