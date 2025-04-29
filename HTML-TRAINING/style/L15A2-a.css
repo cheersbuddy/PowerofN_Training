@@ -1,0 +1,41 @@
+.btn1{
+    background-color: black;
+    color: white;
+
+   
+    padding-top: 4px;
+    position: absolute;
+right: 0px;
+top:10px;
+padding: 5px 5px ;
+}
+.shop{
+    padding: 10px 10px 10px 10px;
+    width:325px;
+    background-color: rgb(152, 143, 143);
+
+    height: 325px;
+    position: relative;
+    display: inline-block;
+}
+.cart{
+    padding: 10px 10px 10px 10px;
+    width: 315px;
+    background-color: rgba(67, 66, 66, 0.5);
+    position: absolute;
+    bottom: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn2{
+    
+    display: flex;
+    align-items: center;
+    position: absolute;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+   
+    border: 1px solid;
+}

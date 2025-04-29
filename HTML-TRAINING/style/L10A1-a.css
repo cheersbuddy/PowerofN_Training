@@ -1,0 +1,46 @@
+.btn-twitter{
+    background-color: rgb(76, 120, 241);
+    color: white;
+font-weight: bold;
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+#img{
+    border-radius: 50%;
+    object-fit: cover;
+    height: 60px;
+    width: 60px;
+    
+}
+.twitter-box{
+   
+    display: flex;
+    width: 800px;
+    align-items: center;
+    margin: 20px;
+    font-size: medium;
+    border: 2px solid rgb(240, 233, 233);
+   border: none;
+}
+.pop{
+    color: grey;
+}
+.what{
+    color: grey;
+    font-size: 18px;
+    margin-top: 20px;
+}
+.name{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.vertical{
+    padding: 5px 10px 5px 10px;
+    line-height: 4px;
+    width: 100px;
+}
+
+

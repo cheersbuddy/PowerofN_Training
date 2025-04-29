@@ -1,0 +1,72 @@
+
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    display: flexbox;
+    margin: 20px;
+    border-radius: 10%;
+
+}
+.jpg{
+border-radius: 10%;
+width: 300px;
+object-fit: fill;
+
+}
+.png{
+    border-radius: 0px;
+}
+
+.webp{
+    border-radius: 50%;
+}
+.url{
+    padding: 10px 10px 10px 10px;
+    width: 500px;
+    border:none;
+    border-radius: 30px;
+    box-shadow: 2px 2px 1px 3px rgba(210, 199, 199, 0.5);
+}.email{
+    color: rgb(104, 101, 101);
+}
+.email-box{
+    width: 350px;
+    padding:5px 5px;
+}
+.btn{
+    background-color: rgb(54, 106, 197);
+    padding: 10px 10px 10px 10px;
+    width: 360px;
+    border-radius: 20px;
+    border: none;
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: large;
+}
+.btn-twitter{
+    background-color: rgb(76, 120, 241);
+    color: white;
+
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+#img{
+    border-radius: 50%;
+    object-fit: cover;
+    height: 60px;
+    width: 60px;
+    
+}
+.twitter-box{
+   
+    display: flex;
+    width: 800px;
+    align-items: center;
+    margin: 20px;
+    font-size: medium;
+    border: 2px solid rgb(240, 233, 233);
+    box-shadow: 3px 3px 3px 3px rgba(161, 143, 143, 0.5);
+}

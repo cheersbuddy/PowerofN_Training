@@ -1,0 +1,65 @@
+
+.aa{
+font-family: Tahoma, "Trebuchet MS", sans-serif;
+color: black;
+
+font-weight: bold;
+font-size: x-large;
+}
+.ab{
+font-family: Arial;
+color: black;
+font-size: x-large;
+font-weight: bolder;
+margin-bottom: 0;
+}
+.red{
+margin-top: 0px;
+color: red;
+font-style: italic;
+}
+.bb{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bolder;
+color: black;
+margin-bottom: 0;
+}
+.text-1{
+font-size: 14px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 270px;
+margin-top: 16px;
+
+}
+.grey{
+margin-top: 3px;
+margin-bottom: 0;
+color: rgb(128, 128, 128);
+}
+.btn{
+background-color: rgb(4, 179, 4);
+border: none;
+color: white;
+border-radius: 2px;
+padding: 5px 5px ;
+padding-left: 10px;
+padding-right: 10px;
+}
+.shopping{
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: x-large;
+font-weight: bolder;
+margin-bottom: 0;
+text-align: center;
+}
+.apple{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+margin-top: 14px;
+}
+.blue{
+color: blue;
+text-align: center;
+margin-top: 14px;
+}

@@ -1,0 +1,36 @@
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: block;
+    border-radius: 50%;
+}
+.wrap{
+    border-width:2px;
+    border: 2px solid black;
+    padding: 10px 30px 10px 20px;
+    width: 300px;
+    align-items: center;
+}
+.music{
+    margin-top: 30px;
+    border-width:2px;
+    border: 2px solid black;
+    padding: 10px 30px 10px 20px;
+    width: 350px;
+    color: white;
+    background-color: rgb(46, 42, 42);
+    align-items: center;
+}
+.t1{
+    font-weight: bold;
+    font-size: x-large;
+}
+.t2{
+    color: rgb(122, 115, 115);
+}

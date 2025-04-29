@@ -1,0 +1,41 @@
+.btn{
+    background-color: black;
+    color: white;
+
+    border-radius: 50%;
+    padding-top: 4px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.btn1{
+    background-color: black;
+    color: white;
+
+    border-radius: 50%;
+    padding-top: 4px;
+    position: absolute;
+    top: -8px;
+    left: -8px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+
+   
+    padding-top: 4px;
+    position: absolute;
+right: 5px;
+bottom: 5px;
+}
+body{
+    height: 3000px;
+}
+.assign2{
+    width: 320px;
+    height: 180px;
+    bottom: 5px;
+    right: 5px;
+    background-color: grey;
+    position: fixed;
+}

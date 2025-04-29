@@ -1,0 +1,49 @@
+.sidebar1{
+    width: 70px;
+    background-color: #f2f2f2;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left:0;
+    color: white;
+    background-color: rgb(17, 18, 16);
+
+}
+body{
+    height: 3000px;
+}
+.image{
+    width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   padding-left : 10px  ;
+   padding-top: 10px;
+   object-fit: cover;
+   object-position: center;
+}
+.sidebar2{
+    width: 175px;
+    background-color: #4a4343;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    left:70px;
+    color: white;
+    padding-left : 20px  ;
+    padding-right : 30px  ;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.tags{
+    color: #b8b8b8;
+}
+.symbol{
+    color: #b8b8b8;
+    font-weight: bolder;
+    font-size: large;
+}

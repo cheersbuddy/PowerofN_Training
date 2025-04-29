@@ -1,0 +1,42 @@
+
+#green{
+    color: rgb(5, 105, 5);
+}
+.b1{
+    background-color: rgb(250, 223, 18);
+    color: rgb(0, 0, 0);
+    border :none;
+    margin : 5px;
+    height: 30px;
+    width: 120px;
+    border-width: 1px;
+    border-radius: 30px;
+    transition: opacity 0.15s;
+}  
+.b1:hover{
+    opacity: 0.7;
+}
+.b1:active{
+    opacity: 0.5;
+}
+.b2{
+    background-color: rgb(184, 119, 15);
+    color: rgb(0, 0, 0);
+    border :none;
+    margin : 5px;
+    height: 30px;
+    width: 120px;
+    border-width: 1px;
+    border-radius: 30px;
+    transition: opacity 0.15s;
+}
+.b2:hover{
+    opacity: 0.7;
+}
+.b2:active{
+    opacity: 0.5;
+}
+.color:hover{
+    color: rgba(192, 104, 21, 0.911);
+}
+
