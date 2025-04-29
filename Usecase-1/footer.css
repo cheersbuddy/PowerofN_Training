@@ -1,0 +1,32 @@
+.footer{
+    margin-top: 10px;
+    background-color: rgb(55, 177, 55);
+    color: white;
+    bottom: 0;
+    text-align: center;
+    justify-content: center;
+    padding: 10px 20px 10px 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.text{
+   
+
+    font-size: 14px;
+    color: white;
+    font-weight: 200;
+    text-decoration: none;
+
+}
+.lower{
+   
+
+    font-size: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+body{
+    height: 3000px;;
+}

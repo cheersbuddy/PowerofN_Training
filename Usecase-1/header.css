@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(55, 177, 55);
+    color: white;
+    padding: 10px 20px 10px 20px;
+    position: fixed;
+    width: 95%;
+    top:0;
+
+}
+.icon22{
+    color: white;
+    font-size: 22px;
+    margin-right: 10px;
+    height: 30px;
+    width: 30px;
+    position:  absolute;
+    top:20px;
+    right: 20px;
+}

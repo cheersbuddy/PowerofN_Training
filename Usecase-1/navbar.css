@@ -1,0 +1,62 @@
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    padding: 5px 5px;
+    background-color: rgb(55, 177, 55);
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar{
+    background-color: rgb(28, 28, 28);
+    position: relative;
+    padding: 40px 20px;
+}
+.arrow{
+    width: 25px;
+    height: 25px;
+
+    padding: 5px 5px;
+position: absolute;
+top: 0;
+right: 0;
+    align-items: center;
+    justify-content: center;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+
+}
+.navtag{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    color: white;
+    margin-top: 0;
+    font-size: 14px;
+}
+.navtag2{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    color: rgb(175, 175, 175);
+    margin-top: 0;
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.line1{
+   
+    height: 15px;
+
+   background-color: rgb(213, 213, 213);
+
+    width:1px;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
